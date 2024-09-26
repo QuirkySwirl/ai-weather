@@ -6,7 +6,7 @@
 
 Here is the prompt I used
 
-''''plaintext
+```plaintext
 Make an HTML, CSS and JS weather app!
 Use https://wttr.in as the endpoint to fetch weather information
 -Background: Use this gradient mesh:
